@@ -15,6 +15,15 @@
 		<enablePrintAssembly>-</enablePrintAssembly>
 		<enableLogCompilation>-</enableLogCompilation>
 	</properties>
+	<developers>
+		<developer>
+			<id>jeszy</id>
+			<name>Péter Jeszenszky</name>
+			<email>jeszenszky.peter@inf.unideb.hu</email>
+			<organization>Faculty of Informatics, University of Debrecen</organization>
+			<organizationUrl>http://www.inf.unideb.hu/</organizationUrl>
+		</developer>
+	</developers>
 	<build>
 		<plugins>
 			<plugin>
